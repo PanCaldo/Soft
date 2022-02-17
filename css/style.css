@@ -168,6 +168,12 @@ body {
   }
 }
 
+@media(max-width:400px) {
+  .header-hero__title {
+    font-size: 42px;
+  }
+}
+
 
 
 .span {
